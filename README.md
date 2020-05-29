@@ -5,7 +5,7 @@ buscas de perfis de usuários no github.
 
 O Layout básico foi estruturado sem tags HTML, foram utilizadas apenas funções Javascript.
 
-Lembrando que essa apliação não apresenta layout customizado, sua implementação teve apenas a intenção de aprendizado
+Lembrando que essa aplicação não apresenta layout customizado, sua implementação teve apenas a intenção de aprendizado
 por meio da prática. Mas ela pode ser usada como esboço para uma aplicação mais elaborada, ou como componente de uma aplicação maior.
 
 ## Tecnologias
